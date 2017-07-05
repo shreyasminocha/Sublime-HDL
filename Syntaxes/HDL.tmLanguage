@@ -11,9 +11,21 @@
         <array>
             <dict>
                 <key>match</key>
-                <string>\b(CHIP|BUILTIN|IN|OUT|PARTS|CLOCKED)\b</string>
+                <string>\bCHIP\b</string>
+                <key>name</key>
+                <string>storage.type.hdl</string>
+            </dict>
+            <dict>
+                <key>match</key>
+                <string>\b(BUILTIN|PARTS|CLOCKED)\b</string>
                 <key>name</key>
                 <string>keyword.language.hdl</string>
+            </dict>
+            <dict>
+                <key>match</key>
+                <string>\b(IN|OUT)\b</string>
+                <key>name</key>
+                <string>variable.parameter.hdl</string>
             </dict>
             <dict>
                 <key>match</key>
