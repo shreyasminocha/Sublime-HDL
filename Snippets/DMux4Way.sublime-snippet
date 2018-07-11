@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+DMux4Way(in=${1}, sel=${2}, a=${3}, b=${4}, c=${5}, d=${6});
+]]></content>
+    <tabTrigger>DMux4Way</tabTrigger>
+    <scope>source.hdl</scope>
+</snippet>

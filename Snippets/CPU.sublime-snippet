@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+CPU(inM=${1}, instruction=${2}, reset=${3}, outM=${4}, writeM=${5}, addressM=${6}, pc=${7});
+]]></content>
+    <tabTrigger>CPU</tabTrigger>
+    <scope>source.hdl</scope>
+</snippet>

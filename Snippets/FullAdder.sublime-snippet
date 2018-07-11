@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+FullAdder(a=${1}, b=${2}, c=${3}, sum=${4}, carry=${5});
+]]></content>
+    <tabTrigger>FullAdder</tabTrigger>
+    <scope>source.hdl</scope>
+</snippet>

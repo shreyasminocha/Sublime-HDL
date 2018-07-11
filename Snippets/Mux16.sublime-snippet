@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+Mux16(a=${1}, b=${2}, sel=${3}, out=${4});
+]]></content>
+    <tabTrigger>Mux16</tabTrigger>
+    <scope>source.hdl</scope>
+</snippet>

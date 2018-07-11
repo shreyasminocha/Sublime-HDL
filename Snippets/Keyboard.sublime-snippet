@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+Keyboard(out=${1});
+]]></content>
+    <tabTrigger>Keyboard</tabTrigger>
+    <scope>source.hdl</scope>
+</snippet>

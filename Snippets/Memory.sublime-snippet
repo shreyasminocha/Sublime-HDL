@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+Memory(in=${1}, load=${2}, address=${3}, out=${4});
+]]></content>
+    <tabTrigger>Memory</tabTrigger>
+    <scope>source.hdl</scope>
+</snippet>

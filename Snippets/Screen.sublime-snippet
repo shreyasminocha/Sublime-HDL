@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+Screen(in=${1}, load=${2}, address=${3}, out=${4});
+]]></content>
+    <tabTrigger>Screen</tabTrigger>
+    <scope>source.hdl</scope>
+</snippet>

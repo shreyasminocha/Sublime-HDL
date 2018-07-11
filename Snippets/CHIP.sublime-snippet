@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+CHIP ${1} {
+    IN ${2};
+    OUT ${3};
+
+    PARTS:
+    ${4}
+}
+]]></content>
+    <tabTrigger>CHIP</tabTrigger>
+    <scope>source.hdl</scope>
+</snippet>

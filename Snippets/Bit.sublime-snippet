@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+Bit(in=${1}, load=${2}, out=${3});
+]]></content>
+    <tabTrigger>Bit</tabTrigger>
+    <scope>source.hdl</scope>
+</snippet>

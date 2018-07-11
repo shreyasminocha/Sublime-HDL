@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+Or(a=${1}, b=${2}, out=${3});
+]]></content>
+    <tabTrigger>Or</tabTrigger>
+    <scope>source.hdl</scope>
+</snippet>
