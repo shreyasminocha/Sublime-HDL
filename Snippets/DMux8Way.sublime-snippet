@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-DMux8Way(in=${1}, sel=${2}, a=${3}, b=${4}, c=${5}, d=${6}, e=${7}, f=${8}, g=${9}, h=${10:});
+DMux8Way(in=$1, sel=$2, a=$3, b=$4, c=$5, d=$6, e=$7, f=$8, g=$9, h=${10:});
 ]]></content>
     <tabTrigger>DMux8Way</tabTrigger>
     <scope>source.hdl</scope>

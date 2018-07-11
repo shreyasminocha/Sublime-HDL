@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-Mux(a=${1}, b=${2}, sel=${3}, out=${4});
+Mux(a=$1, b=$2, sel=$3, out=$4);
 ]]></content>
     <tabTrigger>Mux</tabTrigger>
     <scope>source.hdl</scope>

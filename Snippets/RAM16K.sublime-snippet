@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-RAM16K(in=${1}, load=${2}, address=${3}, out=${4});
+RAM16K(in=$1, load=$2, address=$3, out=$4);
 ]]></content>
     <tabTrigger>RAM16K</tabTrigger>
     <scope>source.hdl</scope>

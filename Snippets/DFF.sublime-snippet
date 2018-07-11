@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-DFF(in${1}, out${2});
+DFF(in$1, out$2);
 ]]></content>
     <tabTrigger>DFF</tabTrigger>
     <scope>source.hdl</scope>

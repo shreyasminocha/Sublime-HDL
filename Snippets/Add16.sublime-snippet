@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-Add16(a=${1}, b=${2}, out=${3});
+Add16(a=$1, b=$2, out=$3);
 ]]></content>
     <tabTrigger>Add16</tabTrigger>
     <scope>source.hdl</scope>

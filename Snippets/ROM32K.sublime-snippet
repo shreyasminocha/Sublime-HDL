@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-ROM32K(address=${1}, out=${2});
+ROM32K(address=$1, out=$2);
 ]]></content>
     <tabTrigger>ROM32K</tabTrigger>
     <scope>source.hdl</scope>

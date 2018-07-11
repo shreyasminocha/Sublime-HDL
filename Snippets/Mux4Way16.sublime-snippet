@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-Mux4Way16(a=${1}, b=${2}, c=${3}, d=${4}, sel=${5}, out=${6});
+Mux4Way16(a=$1, b=$2, c=$3, d=$4, sel=$5, out=$6);
 ]]></content>
     <tabTrigger>Mux4Way16</tabTrigger>
     <scope>source.hdl</scope>

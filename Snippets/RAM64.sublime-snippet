@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-RAM64(in=${1}, load=${2}, address=${3}, out=${4});
+RAM64(in=$1, load=$2, address=$3, out=$4);
 ]]></content>
     <tabTrigger>RAM64</tabTrigger>
     <scope>source.hdl</scope>

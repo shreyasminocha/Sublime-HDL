@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-And(a=${1}, b=${2}, out=${3});
+And(a=$1, b=$2, out=$3);
 ]]></content>
     <tabTrigger>And</tabTrigger>
     <scope>source.hdl</scope>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-PC(in=${1}, load=${2}, inc=${3}, reset=${4}, out=${5});
+PC(in=$1, load=$2, inc=$3, reset=$4, out=$5);
 ]]></content>
     <tabTrigger>PC</tabTrigger>
     <scope>source.hdl</scope>

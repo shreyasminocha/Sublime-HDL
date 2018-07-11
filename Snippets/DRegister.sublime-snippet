@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-DRegister(in=${1}, load=${2}, out=${3});
+DRegister(in=$1, load=$2, out=$3);
 ]]></content>
     <tabTrigger>DRegister</tabTrigger>
     <scope>source.hdl</scope>

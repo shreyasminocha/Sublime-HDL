@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-Inc16(in=${1}, out=${2});
+Inc16(in=$1, out=$2);
 ]]></content>
     <tabTrigger>Inc16</tabTrigger>
     <scope>source.hdl</scope>

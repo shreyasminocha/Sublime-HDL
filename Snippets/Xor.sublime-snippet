@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-Xor(a=${1}, b=${2}, out=${3});
+Xor(a=$1, b=$2, out=$3);
 ]]></content>
     <tabTrigger>Xor</tabTrigger>
     <scope>source.hdl</scope>

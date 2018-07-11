@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-Or8Way(in=${1}, out=${2});
+Or8Way(in=$1, out=$2);
 ]]></content>
     <tabTrigger>Or8Way</tabTrigger>
     <scope>source.hdl</scope>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-Not(in=${1}, out=${2});
+Not(in=$1, out=$2);
 ]]></content>
     <tabTrigger>Not</tabTrigger>
     <scope>source.hdl</scope>
