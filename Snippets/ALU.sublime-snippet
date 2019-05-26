@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-ALU(x=${:1}, y=${:2}, zx=${:3}, nx=${:4}, zy=${:5}, ny=${:6}, f=${:7}, no=${:8}, out=${:9}, zr=${:10}, ng=${:11});
+ALU(x=$1, y=$2, zx=$3, nx=$4, zy=$5, ny=$6, f=$7, no=$8, out=$9, zr=$10, ng=$11);
 ]]></content>
     <tabTrigger>ALU</tabTrigger>
     <scope>source.hdl</scope>
